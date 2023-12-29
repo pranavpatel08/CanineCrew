@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Canine Crew</string>
+    <string name="title_activity_shop">ShopActivity</string>
+    <string name="tab_text_1">For Dogs</string>
+    <string name="tab_text_2">For Cats</string>
+    <string name="tab_text_3">For Birds</string>
+    <string name="tab_text_4">For Fish</string>
+
+    <string name="textview">TextView</string>
+    <string name="welcome_to_appointment_portal">WELCOME TO APPOINTMENT PORTAL</string>
+    <string name="book">Button</string>
+    <string name="button">Button</string>
+    <string name="bookappoinment">Button</string>
+    <string name="checkdetails">Button</string>
+    <string name="userdetails">TextView</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="phone">PHONE</string>
+    <string name="date_of_appoinment">DATE OF APPOINMENT</string>
+    <string name="user_name">USER NAME</string>
+    <string name="give_details_for_booking">GIVE DETAILS FOR BOOKING</string>
+    <string name="book_appoinment">book appoinment</string>
+    <string name="return_to_homepage">return to homepage</string>
+
+    <string name="check_details">check details</string>
+    <string name="status_report">status report</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
